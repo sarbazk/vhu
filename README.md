@@ -1,7 +1,7 @@
 # vhu
 virtual host ubuntu
 
-create apache2 virtual host in ubuntu by vhu.
+create automatic apache2 virtual host in ubuntu by vhu.
 
 example to run code:
 http://example.com/vhu.php?site=test.dev&mail=me@sarbazk.com&dr=/var/www/html/test&pass=***
