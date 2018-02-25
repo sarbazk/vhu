@@ -30,4 +30,4 @@ else
 	echo "Please send required informations...";
 }
 
- ?>
+?>
